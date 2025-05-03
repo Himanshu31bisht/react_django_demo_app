@@ -6,3 +6,4 @@ docker-compose up -d
 docker-ps
 
 Add some more commands
+docker ps -a
