@@ -4,5 +4,3 @@ A demo app for React and Django Deployment
 docker-compose down
 docker-compose up -d
 docker-ps
-its ci/cd
-Again check for continuous deployment
